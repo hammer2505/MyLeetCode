@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hammer/Desktop/面试准备/LeetCode1/222. Count Complete Tree Nodes/main.cpp
+iostream
+-
+math.h
+-
+queue
+-
+algorithm
+-
+sstream
+-
+

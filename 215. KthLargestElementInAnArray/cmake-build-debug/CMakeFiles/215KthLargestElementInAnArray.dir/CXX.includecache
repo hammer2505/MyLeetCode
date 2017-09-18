@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hammer/Desktop/面试准备/LeetCode1/215KthLargestElementInAnArray/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+

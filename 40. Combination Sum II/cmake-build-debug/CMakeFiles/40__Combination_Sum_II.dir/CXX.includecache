@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hammer/Desktop/面试准备/LeetCode1/40. Combination Sum II/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

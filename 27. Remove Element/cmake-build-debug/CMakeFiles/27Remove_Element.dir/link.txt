@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/27Remove_Element.dir/main.cpp.o  -o 27Remove_Element 

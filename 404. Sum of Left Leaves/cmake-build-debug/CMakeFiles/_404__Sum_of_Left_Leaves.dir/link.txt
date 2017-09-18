@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_404__Sum_of_Left_Leaves.dir/main.cpp.o  -o _404__Sum_of_Left_Leaves 

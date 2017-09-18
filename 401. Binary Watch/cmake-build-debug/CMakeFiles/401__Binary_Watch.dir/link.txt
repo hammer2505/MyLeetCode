@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/401__Binary_Watch.dir/main.cpp.o  -o 401__Binary_Watch 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hammer/HAMMER/Github/MyLeetCode/130. Surrounded Regions/main.cpp
+iostream
+-
+vector
+-
+unordered_set
+-
+

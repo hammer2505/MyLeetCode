@@ -1,0 +1,3 @@
+/media/hammer/HAMMER/Github/MyLeetCode/279. Perfect Squares/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/hammer/HAMMER/Github/MyLeetCode/279. Perfect Squares/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/hammer/HAMMER/Github/MyLeetCode/279. Perfect Squares/cmake-build-debug/CMakeFiles/279__Perfect_Squares.dir

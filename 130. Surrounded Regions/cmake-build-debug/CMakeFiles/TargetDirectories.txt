@@ -1,0 +1,3 @@
+/media/hammer/HAMMER/Github/MyLeetCode/130. Surrounded Regions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/hammer/HAMMER/Github/MyLeetCode/130. Surrounded Regions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/hammer/HAMMER/Github/MyLeetCode/130. Surrounded Regions/cmake-build-debug/CMakeFiles/130__Surrounded_Regions.dir

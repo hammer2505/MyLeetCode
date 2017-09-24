@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/303__Range_Sum_Query___Immutable.dir/main.cpp.o  -o 303__Range_Sum_Query___Immutable 
